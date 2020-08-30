@@ -1,3 +1,5 @@
 ## `heyyyyy👋`
 
-I mostly use [GitLab](https://gitlab.com/alifarazz).
+I've migrated to [codeberg](https://codeberg.org/alifara).
+
+I'm also on [GitLab](https://gitlab.com/alifarazz).
