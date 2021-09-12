@@ -1,22 +1,21 @@
 ## `heyyy👋`
 
-Here you can find most things in which I found joy writing. They're mostly in C11 and ISO C++17.
+Here you can find most things in which I find joy writing. They're mostly in C11 or ISO C++17.
 
-Though, I keep most of the new projects in [codeberg](https://codeberg.org/alifara), especially [the](https://codeberg.org/alifara/ai-search) [fun](https://codeberg.org/alifara/ta_stuff) [ones](https://codeberg.org/alifara/Misra-Gries-coloring) [🌶️](https://codeberg.org/alifara/advent-of-code).
-
+As I've migrated to codeberg, I keep most of the new projects in [codeberg](https://codeberg.org/alifara), [especially](https://codeberg.org/alifara/ta_stuff) [the](https://codeberg.org/alifara/ai-search) [fun](https://codeberg.org/alifara/Misra-Gries-coloring) [ones](https://codeberg.org/alifara/3-addr-generator) [🌶️](https://codeberg.org/alifara/advent-of-code).
 You can also find me on [GitLab](https://gitlab.com/alifarazz) and [LinkedIn](https://ir.linkedin.com/in/alifarazdaghi).
 
 <details>
 <summary>
  <b>Trivia</b>
 </summary>
-  
+ 
   * vim or emacs? `emacs -nw`
   * tab or spaces? [whatever](https://editorconfig.org/)
   * C or C++? yes
   * python? oh yes!
   * OS? GNU/Linux + BSD stuff
-  * Best CS book? [SICP](https://sarabander.github.io/sicp/html/index.xhtml)
+  * Best CS books? [SICP](https://sarabander.github.io/sicp/html/index.xhtml), [CLRS 3rd](https://www.worldcat.org/title/introduction-to-algorithms/oclc/488385251), [Creative](https://www.worldcat.org/title/introduction-to-algorithms-a-creative-approach/oclc/294948010), [Alefba (by Morteza MohammadAbadi)](http://opac.nlai.ir/opac-prod/bibliographic/1274845)
   
 </details>
 
