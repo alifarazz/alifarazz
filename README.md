@@ -10,7 +10,7 @@ You can also find me on [GitLab](https://gitlab.com/alifarazz) and [LinkedIn](ht
  <b>Trivia</b>
 </summary>
  
-  * vim or emacs? `emacs -nw`
+  * vim or emacs? Either `emacs -nw` or `nvim`
   * tab or spaces? [whatever](https://editorconfig.org/)
   * C or C++? yes
   * python? oh yes!
