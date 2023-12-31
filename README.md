@@ -1,14 +1,16 @@
 ## `heyyy👋`
 
-Here you can find most things in which I find joy writing. They're mostly in C11 or ISO C++17.
+Migrated to [Codeberg](https://codeberg.org/alifara/)
 
-As I've migrated to codeberg, I keep most of the new projects in [codeberg](https://codeberg.org/alifara); especially these ones:
- - [My T.A. experiences 🔍](https://codeberg.org/alifara/ta_stuff)
- - [advent-of-code 🌶️](https://codeberg.org/alifara/advent-of-code) [what is advent-of-code](https://adventofcode.com/2022/about)
- - [Simulated Anealing and GA examples 🧬](https://codeberg.org/alifara/ai-search) 
- - [Misra-Gries-coloring paper implementation in 🐍](https://codeberg.org/alifara/Misra-Gries-coloring)
+<!-- Here you can find most things in which I find joy writing. They're mostly in C11 or ISO C++17.
 
-You can also find me on [GitLab](https://gitlab.com/alifarazz) and [LinkedIn](https://ir.linkedin.com/in/alifarazdaghi).
+As I've migrated to codeberg, I keep most of the new projects in [codeberg](https://codeberg.org/alifara) ; especially these ones: -->
+<!--  - [My T.A. experiences 🔍](https://codeberg.org/alifara/ta_stuff) -->
+<!--  - [advent-of-code 🌶️](https://codeberg.org/alifara/advent-of-code) [what is advent-of-code](https://adventofcode.com/2022/about) -->
+<!--  - [Simulated Anealing and GA examples 🧬](https://codeberg.org/alifara/ai-search)  -->
+<!--  - [Misra-Gries-coloring paper implementation in 🐍](https://codeberg.org/alifara/Misra-Gries-coloring) -->
+
+<!-- You can also find me on [GitLab](https://gitlab.com/alifarazz) and [LinkedIn](https://ir.linkedin.com/in/alifarazdaghi). -->
 
 <details>
 <summary>
@@ -29,8 +31,8 @@ You can also find me on [GitLab](https://gitlab.com/alifarazz) and [LinkedIn](ht
     <td>
       <img alt="alifarazz's Programming Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarazz&layout=compact&hide_border=true"/>
     </td>
-    <td>
-      <img alt="alifarazz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alifarazz&show_icons=true&include_all_commits=true&hide_border=true"/>
-    </td>
+    <!-- <td> -->
+    <!--   <img alt="alifarazz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alifarazz&show_icons=true&include_all_commits=true&hide_border=true"/> -->
+    <!-- </td> -->
   </tr>
 </table>
