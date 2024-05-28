@@ -1,6 +1,6 @@
 ## `heyyy👋`
 
-Migrated to [Codeberg](https://codeberg.org/alifara/)
+Also on [Codeberg](https://codeberg.org/alifara/)
 
 <!-- Here you can find most things in which I find joy writing. They're mostly in C11 or ISO C++17.
 
