@@ -1,5 +1,7 @@
 ## `heyyy👋`
 
+Checkout my website: https://alifara.codeberg.page/
+
 Also on [Codeberg](https://codeberg.org/alifara/)
 
 <!-- Here you can find most things in which I find joy writing. They're mostly in C11 or ISO C++17.
@@ -22,7 +24,7 @@ As I've migrated to codeberg, I keep most of the new projects in [codeberg](http
   * C or C++? both
   * Python? of course!
   * OS? GNU/Linux + BSD stuff
-  * Best entry level CS books? [SICP](https://sarabander.github.io/sicp/html/index.xhtml), [CLRS 3rd](https://www.worldcat.org/title/introduction-to-algorithms/oclc/488385251), [Creative](https://www.worldcat.org/title/introduction-to-algorithms-a-creative-approach/oclc/294948010), [Alefba (by Morteza MohammadAbadi)](http://opac.nlai.ir/opac-prod/bibliographic/1274845)
+  * Best entry level CS books? [SICP](https://sarabander.github.io/sicp/html/index.xhtml), [CLRS 3rd](https://www.worldcat.org/title/introduction-to-algorithms/oclc/488385251), [Udi Manber's Creative](https://www.worldcat.org/title/introduction-to-algorithms-a-creative-approach/oclc/294948010), [Alefba (by Morteza MohammadAbadi)](http://opac.nlai.ir/opac-prod/bibliographic/1274845)
   
 </details>
 
