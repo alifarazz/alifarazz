@@ -34,7 +34,7 @@ As I've migrated to codeberg, I keep most of the new projects in [codeberg](http
       <img alt="alifarazz's Programming Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarazz&layout=compact&hide_border=true"/>
     </td>
     <td>
-      <img alt="alifarazz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alifarazz&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile"/>
+      <img alt="alifarazz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alifarazz&show_icons=true&hide_border=true&rank_icon=percentile"/>
     </td>
   </tr>
 </table>
