@@ -4,6 +4,8 @@ Checkout my website: https://alifara.codeberg.page/
 
 Also on [Codeberg](https://codeberg.org/alifara/)
 
+My code sinppets are [here](https://gist.github.com/alifarazz)
+
 <!-- Here you can find most things in which I find joy writing. They're mostly in C11 or ISO C++17.
 
 As I've migrated to codeberg, I keep most of the new projects in [codeberg](https://codeberg.org/alifara) ; especially these ones: -->
