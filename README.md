@@ -1,5 +1,7 @@
 ## `heyyy👋`
 
+I specialize in the field of High-Performance Computing (HPC) with a focus on GPU communication.
+
 Checkout my website: https://alifara.codeberg.page/
 
 Also on [Codeberg](https://codeberg.org/alifara/)
@@ -33,10 +35,11 @@ As I've migrated to codeberg, I keep most of the new projects in [codeberg](http
 <table style="width:100%">
   <tr>
     <td>
-      <img alt="alifarazz's Programming Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarazz&layout=compact&hide_border=true"/>
+      <img height="168" alt="alifarazz's Programming Languages Stats" src="https://github.com/alifarazz/alifarazz/raw/refs/heads/master/profile/stats.svg"/>
     </td>
     <td>
-      <img alt="alifarazz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alifarazz&show_icons=true&hide_border=true&rank_icon=percentile"/>
+      <img height="168" alt="alifarazz's Github Stats" src="https://github.com/alifarazz/alifarazz/raw/refs/heads/master/profile/top-langs.svg"/>
     </td>
   </tr>
 </table>
+
