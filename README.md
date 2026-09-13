@@ -1,6 +1,6 @@
 ## `heyyy👋`
 
-I specialize in the field of High-Performance Computing (HPC) with a focus on GPU communication.
+HPC nerd specializing in GPUs and GPU communication.
 
 My website: https://alifara.codeberg.page/
 
